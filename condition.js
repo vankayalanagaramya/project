@@ -40,13 +40,3 @@ while(i>1){
     i--;
 }
 
-// traditional functions
-let a,b,c,d;
-function multiply(a,b){
-    return a*b;
-}
-function divide(c,d){
-    return c/d;
-}
-multiply(1,7);
-divide(4,2);
