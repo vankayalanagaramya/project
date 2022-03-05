@@ -5,6 +5,10 @@ for(let i=0;i<arr.length-1;i++){
     for(let j=i+1;j<arr.length;j++){
         if(arr[i]===arr[j]){
             console.log(`${arr[i]}`);
+            let count = arr[i];
+            console.log(keys(count));
+
         }
+
     }
 }

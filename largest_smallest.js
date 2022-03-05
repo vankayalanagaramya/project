@@ -1,4 +1,4 @@
-// Finding largest and smallest numbers in a sorted array
+// Finding largest and smallest numbers in a sorted
 let arr=[34,3,99,5,8,78];
 arr.sort(function(a,b){return a - b});
 console.log(arr);
