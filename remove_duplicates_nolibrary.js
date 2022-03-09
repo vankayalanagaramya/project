@@ -16,7 +16,7 @@ function removeDuplicates(arr, len)
 	return j;
 }
 
-var arr = [1, 2, 2, 3, 4, 4, 4, 5, 5];
+var arr = [1, 2, 2, 3, 4, 7, 5, 5];
 	var len = arr.length;
     len = removeDuplicates(arr, len);
 	for (var i=0; i<len; i++){
