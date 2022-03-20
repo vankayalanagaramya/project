@@ -13,5 +13,5 @@ if(reverseString(str)===str){
     console.log(`The string ${str} is palindrome`);
 }
 else{
-    console.log(`The string ${str} is not palindrome`)
+    console.log(`The string ${str} is not palindrome`);
 }

@@ -18,5 +18,5 @@
         }    
     }
      
-    let str = "ramya";
+    let str = "vankayalanagaramya";
       duplicate(str);
